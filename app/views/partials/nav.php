@@ -2,10 +2,13 @@
     <nav>
         <ul>
             <li>
-                <a href="../../public/index.php">Home</a>
+                <a href="index.php">Home</a>
             </li>
             <li>
-                <a href="../search.php">Search</a>
+                <a href="add.php">Add</a>
+            </li>
+            <li>
+                <a href="search.php">Search</a>
             </li>
         </ul>
 
