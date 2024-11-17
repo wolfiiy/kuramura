@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Home";
+$pageTitle = "Add";
 include '../views/partials/head.php';
 include '../views/partials/nav.php';
-include '../views/indexView.php';
+include '../views/addView.php';
 include '../views/partials/footer.php';
 ?>
