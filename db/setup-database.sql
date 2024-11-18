@@ -17,7 +17,7 @@ CREATE TABLE t_category(
    UNIQUE(catName)
 );
 
-CREATE TABLE t_Brand(
+CREATE TABLE t_brand(
    idBrand INT AUTO_INCREMENT,
    braName VARCHAR(75) NOT NULL,
    PRIMARY KEY(idBrand),
